@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.colorido {
+    background-color: #F5F5F5;
+    padding: 20px;
+    margin: 40px;
+}
+
+.strong {
+    background-color: #F0CCE2;    
+    font-style: bold;
+    padding: 20px;
+    margin: 40px;
+}
